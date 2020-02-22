@@ -886,7 +886,7 @@ about
 
 #about2 ul li img {
   display: inline;
-  float: left;
+  /* float: left;  idk comment */
 }
 
 #about2 ul li .text {
